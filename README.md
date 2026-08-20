@@ -23,6 +23,9 @@ This repository contains Python and OpenCV programs.
 - Python
 - OpenCV
 - NumPy
+## Author
+
+Spandu962
 
 ## Installation
 
